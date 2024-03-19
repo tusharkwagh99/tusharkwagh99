@@ -1,7 +1,7 @@
 ![logo](https://github.com/tusharkwagh99/tusharkwagh99/blob/main/1.png)
 <h1 align="center">Hey Everyone 👋, I'm Tushar Wagh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@itguru.twagh99 </h3>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div> -->
+<h3 align="center">A passionate DevOps Engineer From India. I work in the Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@itguru.twagh99 </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkwagh99&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkwagh99" /> </p>
